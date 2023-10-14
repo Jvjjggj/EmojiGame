@@ -1,0 +1,26 @@
+/* Write your code here. */
+.lossCard {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  height: 100%;
+  padding: 40px;
+}
+.scoreDivv {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.sadImg {
+  height: 15rem;
+}
+.playAgainBtn {
+  padding: 6px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffce27;
+  cursor: pointer;
+}

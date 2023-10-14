@@ -1,0 +1,12 @@
+/* Write your code here. */
+.btn {
+  margin: 20px;
+  flex-grow: 1;
+  background-color: #ffffff33;
+  border-radius: 5px;
+  border: solid 1px #ffffff30;
+  cursor: pointer;
+}
+.img {
+  height: 12rem;
+}

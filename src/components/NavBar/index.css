@@ -1,0 +1,20 @@
+/* Write your code here. */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #9796f0;
+}
+.scoreDiv {
+  display: flex;
+  margin: 10px 20px 10px;
+}
+.emojiLogDiv {
+  display: flex;
+  margin: 10px 0px 10px 30px;
+}
+.emojiHead {
+  font-size: medium;
+}
+.para {
+  margin-right: 8px;
+}

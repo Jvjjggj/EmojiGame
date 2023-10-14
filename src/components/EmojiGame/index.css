@@ -1,0 +1,16 @@
+/* Write your code here. */
+.emojiGrid {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0px 40px 0px;
+  background-image: linear-gradient(to right, #6a59ff, #fbc7d4);
+}
+.emojiCard {
+  display: flex;
+  flex-wrap: wrap;
+}
+.unorderList {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
